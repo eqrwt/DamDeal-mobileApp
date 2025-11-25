@@ -1,4 +1,4 @@
-# Ysrap Etpe - Food Surplus App for Central Asia
+# DamDeal - Food Surplus App for Central Asia
 
 A "Too Good To Go" style application designed for the Central Asia market, starting with Kazakhstan Almaty. This app helps reduce food waste by connecting customers with restaurants and cafes that have surplus food at discounted prices.
 
