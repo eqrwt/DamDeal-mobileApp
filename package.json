@@ -1,0 +1,21 @@
+{
+  "name": "ysrap-etpe",
+  "version": "1.0.0",
+  "description": "Too Good To Go style app for Central Asia market",
+  "main": "server/index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd server && npm run dev",
+    "client": "cd client && npm start",
+    "admin": "cd admin && npm start",
+    "mobile": "cd mobile && npm start",
+    "install-all": "npm install && cd server && npm install && cd ../client && npm install && cd ../admin && npm install && cd ../mobile && npm install",
+    "build": "cd client && npm run build && cd ../admin && npm run build"
+  },
+  "keywords": ["food", "surplus", "sustainability", "kazakhstan", "almaty"],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
