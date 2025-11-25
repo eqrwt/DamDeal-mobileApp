@@ -322,8 +322,7 @@ The app is designed for the Central Asia market with:
 ## 📞 Support
 
 For support and questions:
-- Email: support@ysrapetpe.kz
-- Phone: +7 (727) XXX-XX-XX
+- Phone: +7 (707) 216 1010
 - Address: Almaty, Kazakhstan
 
 ---
